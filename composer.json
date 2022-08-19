@@ -1,0 +1,14 @@
+{
+    "name": "itembase/postnl",
+    "description": "this is shipping package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ilyas",
+            "email": "ilyas@metricoidtech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
